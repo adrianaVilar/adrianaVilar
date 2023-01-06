@@ -1,6 +1,6 @@
 ### Olá 👋
 
-🤔 Atualmente procuro por estágio com programação Java. Sou uma pessoa dedicada e estou em busca de uma oportunidade na área de T.I. Curso Análise e desenvolvimento de sistemas com a ambição de fazer uma transição de carreira o mais breve possível. Além do curso, procuro participar de programas de treinamento, webinars, bootcamps, cursos e tudo mais que possa contribuir para que eu alcance a meta de trabalhar na área.
+🤔 Atualmente sou Analista de testes Jr na empresa Stefanini e curso Análise e desenvolvimento de sistemas. Além do curso e do trabalho, procuro participar de programas de treinamento, webinars, bootcamps, cursos e tudo mais que possa contribuir para agregar conhecimento.
  
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adriana-vilar/)](https://www.linkedin.com/in/adriana-vilar/)
 

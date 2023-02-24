@@ -1,6 +1,6 @@
 ### Olá 👋
 
-🤔 Atualmente sou Analista de testes Jr na empresa Stefanini e curso Tecnologia em análise e desenvolvimento de sistemas. Além do curso e do trabalho, procuro participar de programas de treinamento, webinars, bootcamps, cursos e tudo mais que possa contribuir para agregar conhecimento.
+🤔 Sou Analista de testes PL na Cast Group e curso Tecnologia em análise e desenvolvimento de sistemas. Além do curso e do trabalho, procuro participar de programas de treinamento, webinars, bootcamps, cursos e tudo mais que possa contribuir para agregar conhecimento.
  
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adriana-vilar/)](https://www.linkedin.com/in/adriana-vilar/)
 

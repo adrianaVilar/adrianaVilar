@@ -1,8 +1,8 @@
 ### Olá 👋
 
-🤔 Sou Analista de testes PL na Cast Group e curso Tecnologia em análise e desenvolvimento de sistemas. Além do curso e do trabalho, procuro participar de programas de treinamento, webinars, bootcamps, cursos e tudo mais que possa contribuir para agregar conhecimento.
+🤔 Sou Desenvolvedora Mobile na Cast Group e curso Tecnologia em análise e desenvolvimento de sistemas. Além do curso e do trabalho, procuro participar de programas de treinamento, webinars, bootcamps, cursos e tudo mais que possa contribuir para agregar conhecimento.
  
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adriana-vilar/)](https://www.linkedin.com/in/adriana-vilar/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/adriana-vilar](https://www.linkedin.com/in/adriana-lopes-206251387/))](https://www.linkedin.com/in/adriana-lopes-206251387/)
 
 <!--
 **adrianaVilar/adrianaVilar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
